@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AEC_05_COUNTER</string>
+    <string name="counter">Counter</string>
+    <string name="counterText">0</string>
+</resources>
